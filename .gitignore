@@ -1,3 +1,14 @@
+#ignore everything
+* 
+
+# unignore directory
+!*/
+
+# unignore files with an extension
+!*.*
+
+!LICENSE
+
 # Prerequisites
 *.d
 
