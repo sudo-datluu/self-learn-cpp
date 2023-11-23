@@ -4,9 +4,8 @@
 # unignore directory
 !*/
 
-# unignore files with an extension
+# unignore files with an extension and LICENSE file
 !*.*
-
 !LICENSE
 
 # Prerequisites
@@ -41,4 +40,6 @@
 *.exe
 *.out
 *.app
-.vscode
+
+# Vscode configurations
+.vscode/
