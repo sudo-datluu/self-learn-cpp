@@ -12,5 +12,7 @@ This repository aims to keep track my back learning journey for cpp
 - Nov 27, 2023: 
   - [Pointers](src/learn_pointers.cpp)
   - [Null Pointer](src/null_pointers.cpp)
+- Nov 28, 2023: [Function template](src/func_template.cpp)
+
 > Using [C++20 Standard](https://en.cppreference.com/w/cpp/20). gcc 13.1.0. Ubuntu 20.04.3 LTS.
 > Inspired by [Bro Code](https://www.youtube.com/watch?v=-TkoO8Z07hI).
